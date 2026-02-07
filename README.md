@@ -64,7 +64,7 @@ Working on integration of AI/ML and Automation on Legacy Defence Applications.
 - 📈 **[HR-Analytics-PowerBI](https://github.com/AdityaDwivediAtGit/HR-Analytics-PowerBI)** - Comprehensive HR analytics for workforce analysis and performance optimization
 - ⚡ **[PrivateHost](https://github.com/AdityaDwivediAtGit/PrivateHost)** - Hosting utility for Angular/React/Streamlit applications
 - 🧩 **[MazeSolver](https://github.com/AdityaDwivediAtGit/MazeSolver)** - Pathfinding algorithms (DFS/BFS) visualization and implementation
-- ▶️**[YouTube_Video_Downloader](https://github.com/AdityaDwivediAtGit/YouTube_Video_Downloader)** - Python utility for downloading YouTube videos
+- ▶️ **[YouTube_Video_Downloader](https://github.com/AdityaDwivediAtGit/YouTube_Video_Downloader)** - Python utility for downloading YouTube videos
 - 💾 **[Verilog-HDL-modules](https://github.com/AdityaDwivediAtGit/Verilog-HDL-modules)** - Designs and TestBench of various circuits using Verilog HDL
 - 🔌 **[LowLevelBlink](https://github.com/AdityaDwivediAtGit/LowLevelBlink)** - Low-level embedded systems programming in C
 
