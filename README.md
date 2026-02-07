@@ -8,38 +8,22 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat-square&logo=v&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 > Responsible and Self-Motivated Electronics and Information Technology Engineer, distinguished by rapid adaptability and logic-driven mindset.
 
 ## Current Projects
 
-### 🤖 AI & Machine Learning
-
-- 🧠 **[AbleSenseLearn](https://github.com/AdityaDwivediAtGit/AbleSenseLearn)** - Repo for ACCESS.AI Hackathon | [Live Demo](https://able-sense-ai-buddy.streamlit.app/)
-- 🧠 **[CustomerServiceQA using GraphRAG](https://github.com/AdityaDwivediAtGit/CustomerServiceQA_using_GraphRAG)** - Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering | [Research Paper](https://dl.acm.org/doi/epdf/10.1145/3626772.3661370)
-- 🧠 **[World-Bank ETL Pipeline](https://github.com/AdityaDwivediAtGit/World-Bank-ETL-Pipeline)** - ETL project for World Bank data using PySpark with ML predictions
-
-### ⚙️ Backend & APIs
-
-- 🔧 **[Go-Sorting-Server](https://github.com/AdityaDwivediAtGit/Go-Sorting-Server)** - Efficient array sorting with sequential and concurrent processing, Dockerized and deployed on Railway | [Live](https://go-sorting-server-production-a169.up.railway.app)
-- 🔧 **[GuardedGates](https://github.com/AdityaDwivediAtGit/GuardedGates)** - Secure .NET and Python project with JWT authentication, ClamAV integration, and Ocelot API gateway
-- 🔧 **[DeliveryServiceHub](https://github.com/AdityaDwivediAtGit/DeliveryServiceHub)** - Common API for integrating with delivery partners ShipRocket and Porter
-- 🔧 **[DapperFilteringProject](https://github.com/AdityaDwivediAtGit/DapperFilteringProject)** - Efficient large dataset management using dynamic filtering and Dapper
-
-### 📊 Analytics & Visualization
-
-- 📉 **[Cricket World Cup Analytics](https://github.com/AdityaDwivediAtGit/CricketWorldCupAnalytics)** - Power BI dashboard for 2019 Cricket World Cup statistical analysis
-- 📉 **[HR Analytics PowerBI](https://github.com/AdityaDwivediAtGit/HR-Analytics-PowerBI)** - Comprehensive HR analytics for workforce analysis and performance optimization
-
-### 🛠️ Tools & Utilities
-
-- ⚡ **[MazeSolver](https://github.com/AdityaDwivediAtGit/MazeSolver)** - Pathfinding from start to end using DFS or BFS algorithms
-- ⚡ **[PrivateHost](https://github.com/AdityaDwivediAtGit/PrivateHost)** - Hosting utility for Angular/React/Streamlit applications | [Live](https://adityadwivediatgit.github.io/PrivateHost/)
-
-### 🔌 Hardware & Embedded Systems
-
+- 🧠 **[AbleSenseLearn](https://github.com/AdityaDwivediAtGit/AbleSenseLearn)** - Repo for ACCESS.AI Hackathon
+- 🧠 **[CustomerServiceQA](https://github.com/AdityaDwivediAtGit/CustomerServiceQA_using_GraphRAG)** - Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering
+- 🧠 **[World-Bank-ETL-Pipeline](https://github.com/AdityaDwivediAtGit/World-Bank-ETL-Pipeline)** - ETL project for World Bank data using PySpark with ML predictions
+- 🔧 **[Go-Sorting-Server](https://github.com/AdityaDwivediAtGit/Go-Sorting-Server)** - Efficient array sorting with sequential and concurrent processing, Dockerized and deployed on Railway
+- 🛡️ **[GuardedGates](https://github.com/AdityaDwivediAtGit/GuardedGates)** - Secure .NET and Python project with JWT authentication, ClamAV integration, and Ocelot API gateway
+- 🚚 **[DeliveryServiceHub](https://github.com/AdityaDwivediAtGit/DeliveryServiceHub)** - Common API for integrating with delivery partners ShipRocket and Porter
+- 📊 **[Cricket World Cup Analytics](https://github.com/AdityaDwivediAtGit/CricketWorldCupAnalytics)** - Power BI dashboard for 2019 Cricket World Cup statistical analysis
+- ⚡ **[PrivateHost](https://github.com/AdityaDwivediAtGit/PrivateHost)** - Hosting utility for Angular/React/Streamlit applications
 - 💾 **[Verilog-HDL-modules](https://github.com/AdityaDwivediAtGit/Verilog-HDL-modules)** - Designs and TestBench of various circuits using Verilog HDL
-- 💾 **[LowLevelBlink](https://github.com/AdityaDwivediAtGit/LowLevelBlink)** - Low-level embedded systems programming in C
 
 ## GitHub Activity
 
@@ -54,10 +38,25 @@
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdityaDwivediAtGit)
-[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://linktr.ee/adityasavestrees)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dwivediadityaofficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dwivedi-aditya)
+[![Credly](https://img.shields.io/badge/-Credly-F2F2F2?style=flat-square&logo=credly&logoColor=black)](https://www.credly.com/users/aditya-dwivedi-org/badges)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/DwivediAdityaOfficial/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@theKernel_255)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:DwivediAdityaOfficial@gmail.com)
+[![DockerHub](https://img.shields.io/badge/-DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/infiniteintegrator)
+[![Maven Analytics](https://img.shields.io/badge/-Maven_Analytics-0056D2?style=flat-square&logo=google-analytics&logoColor=white)](https://mavenanalytics.io/profile/Aditya-Dwivedi/192607842)
 
 ---
 
-*Building the future, one commit at a time* ✨
+### Research & Publications
+
+- **[CGPCRobot: Research Paper - Sādhanā](https://doi.org/10.1007/s12046-023-02424-5)**
+- **[Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering](https://dl.acm.org/doi/epdf/10.1145/3626772.3661370)**
+
+<details>
+<summary>Random Facts</summary>
+
+- Gym enthusiast (when not coding)
+- Coaches NGO folks at [VIDYA INDIA](https://vidya-india.org)
+
+</details>
