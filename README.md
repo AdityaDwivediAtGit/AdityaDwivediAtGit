@@ -3,6 +3,8 @@
 📍 **INDIA** | 💼 **TATA** | 🚀 **Software Engineer & AI Enthusiast**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -11,7 +13,41 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-> Responsible and Self-Motivated Electronics and Information Technology Engineer, distinguished by rapid adaptability and logic-driven mindset.
+> I specialize in blending AI/ML (Forecasting Algorithms, Building Neural Networks, etc.) and Automation to solve real-world problems — recently improving forecasting accuracy in a critical ERP system, helping save thousands of crores. My work spans pipeline development, model creation and tuning, creating Tableau dashboards, and tech mentorship — all in a high-security, classified environment. Always learning. Always optimizing.
+
+## Experience
+
+### Tata Consultancy Services
+**AI/ML & Data Systems Engineer for Ministry of Defence Project** | *May 2024 - Present*
+Working on integration of AI/ML and Automation on Legacy Defence Applications.
+
+### Ideationals
+**Full Stack Engineer (.NET Dev) Freelance** | *Feb 2024 - May 2024*
+- Optimized code performance by implementing a generic cache algorithm, JSON parsing, and deserialization.
+- Improved security by implementing JWT authentication and stability with RabbitMQ/SignalR.
+- Demonstrated proficiency in dependency injection, SOLID principles, and generic class automation.
+
+### Konverge.AI
+**Data Analyst** | *Aug 2023 - Nov 2023*
+- Developed ER Diagrams, rectified data using Power Query, and built ETL Pipelines using Apache PySpark.
+**Cloud Data Engineer** | *Jan 2023 - July 2023*
+- Applied proficiency in Python, SQL (Snowflake/PostgreSQL), and tools like Docker, Flask, and PowerBI.
+
+## Education
+
+**Shri Ramdeobaba College of Engineering and Management**
+*Bachelor of Engineering - BE, Electronics Engineering with Minors in Information Technology Engineering* (2019 - 2023)
+
+## Honors & Awards
+
+- 🏆 **Best Development Team Award**
+- 🏆 **Best AI ML Analytics Team Award**
+- 🎖️ **TCS Best Ethical Hacker Award**
+- 🌟 **Elevate Wings Award**
+- 📜 **Konverge.AI Token of Appreciation for Exceptional Performance**
+- 🥇 **Top Scorer Letter of Recommendation**
+- 🗣️ **Independence Day Impromptu Speech**
+
 
 ## Current Projects
 
@@ -28,8 +64,8 @@
 - 📈 **[HR-Analytics-PowerBI](https://github.com/AdityaDwivediAtGit/HR-Analytics-PowerBI)** - Comprehensive HR analytics for workforce analysis and performance optimization
 - ⚡ **[PrivateHost](https://github.com/AdityaDwivediAtGit/PrivateHost)** - Hosting utility for Angular/React/Streamlit applications
 - 🧩 **[MazeSolver](https://github.com/AdityaDwivediAtGit/MazeSolver)** - Pathfinding algorithms (DFS/BFS) visualization and implementation
-- � **[YouTube_Video_Downloader](https://github.com/AdityaDwivediAtGit/YouTube_Video_Downloader)** - Python utility for downloading YouTube videos
-- �💾 **[Verilog-HDL-modules](https://github.com/AdityaDwivediAtGit/Verilog-HDL-modules)** - Designs and TestBench of various circuits using Verilog HDL
+- ▶️**[YouTube_Video_Downloader](https://github.com/AdityaDwivediAtGit/YouTube_Video_Downloader)** - Python utility for downloading YouTube videos
+- 💾 **[Verilog-HDL-modules](https://github.com/AdityaDwivediAtGit/Verilog-HDL-modules)** - Designs and TestBench of various circuits using Verilog HDL
 - 🔌 **[LowLevelBlink](https://github.com/AdityaDwivediAtGit/LowLevelBlink)** - Low-level embedded systems programming in C
 
 ### 🛠️ Utilities & Scripts
@@ -68,12 +104,14 @@
 
 ---
 
-### Certifications
+### [Recent Certifications](https://www.credly.com/users/aditya-dwivedi-org/badges)
 
 - **Build search and recommendations applications with AI** - Google Cloud (Jan 2026)
 - **Create media search and media recommendations applications with AI** - Google Cloud (Jan 2026)
 - **Deploy an Agent with Agent Development Kit (ADK)** - Google Cloud (Jan 2026)
 - **Integrate Vertex AI Search and Conversation into Voice and Chat Apps** - Google Cloud (Jan 2026)
+- **Programming with Python**
+- **The DevOps Essentials**
 
 ### Research & Publications
 
