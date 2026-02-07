@@ -40,13 +40,27 @@ Working on integration of AI/ML and Automation on Legacy Defence Applications.
 
 ## Honors & Awards
 
-- 🏆 **Best Development Team Award**
-- 🏆 **Best AI ML Analytics Team Award**
-- 🎖️ **TCS Best Ethical Hacker Award**
-- 🌟 **Elevate Wings Award**
-- 📜 **Konverge.AI Token of Appreciation for Exceptional Performance**
-- 🥇 **Top Scorer Letter of Recommendation**
-- 🗣️ **Independence Day Impromptu Speech**
+### Tata Consultancy Services
+
+- 🏆 **Star Team Award** (Dec 2025)
+  > *Celebrated for turning a complex, ambiguous client challenge into an innovative solution.*
+- 🥇 **World's Largest AI Hackathon 2025-26 Winner** (Oct 2025)
+- 💡 **TCS AI Ideapreneur** (Nov 2025)
+- ✨ **TCS AI Spark** (Nov 2025)
+- 🚀 **TCS Idea Ignitor** (Nov 2025)
+- 🏆 **Best AI ML Analytics Team Award** (May 2025)
+- 🏆 **Best Development Team Award** (May 2025)
+- � **Elevate Wings Award** (Feb 2025)
+  > *Track based on Tableau and ETL.*
+- 🎖️ **Best Ethical Hacker Award** (Jan 2025)
+  > *Managed to find vulnerabilities in a hosted web application.*
+- 🗣️ **Independence Day Impromptu Speech** (Aug 2024)
+
+### Other
+
+- 📜 **Letter of Recommendation** - Konverge.AI (Mar 2024)
+- 📜 **Token of Appreciation for Exceptional Performance** - Konverge.AI
+- 🥇 **Top Scorer** - Pratishruti Event, RCOEM (Feb 2020)
 
 
 ## Current Projects
