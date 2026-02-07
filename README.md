@@ -32,6 +32,19 @@
 - �💾 **[Verilog-HDL-modules](https://github.com/AdityaDwivediAtGit/Verilog-HDL-modules)** - Designs and TestBench of various circuits using Verilog HDL
 - 🔌 **[LowLevelBlink](https://github.com/AdityaDwivediAtGit/LowLevelBlink)** - Low-level embedded systems programming in C
 
+### 🛠️ Utilities & Scripts
+
+- 📂 **[Automate_File_Execution](https://github.com/AdityaDwivediAtGit/Automate_File_Execution)** - Automation script for file execution
+- 🐍 **[CurlyProtoPy](https://github.com/AdityaDwivediAtGit/CurlyProtoPy)** - Python prototyping utility
+- ⬇️ **[gstr1_json_downloader](https://github.com/AdityaDwivediAtGit/gstr1_json_downloader)** - JSON downloader utility for GSTR1
+- 📱 **[Mobile_Number_Wordlist_Generator](https://github.com/AdityaDwivediAtGit/Mobile_Number_Wordlist_Generator)** - Wordlist generator for mobile numbers
+- 🐚 **[neofetch](https://github.com/AdityaDwivediAtGit/neofetch)** - Command-line system information tool
+
+### 📚 Learning & Notes
+
+- 📓 **[Notes](https://github.com/AdityaDwivediAtGit/Notes)** - Personal learning notes and snippets
+- 📝 **[KonvergeBootCampNotes](https://github.com/AdityaDwivediAtGit/KonvergeBootCampNotes)** - Konverge BootCamp Learning Notes (Airflow, etc.)
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/AdityaDwivediAtGit)
