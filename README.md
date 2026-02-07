@@ -48,9 +48,21 @@
 
 ---
 
+### Certifications
+
+- **Build search and recommendations applications with AI** - Google Cloud (Jan 2026)
+- **Create media search and media recommendations applications with AI** - Google Cloud (Jan 2026)
+- **Deploy an Agent with Agent Development Kit (ADK)** - Google Cloud (Jan 2026)
+- **Integrate Vertex AI Search and Conversation into Voice and Chat Apps** - Google Cloud (Jan 2026)
+
 ### Research & Publications
 
 - **[CGPCRobot: Research Paper - Sādhanā](https://doi.org/10.1007/s12046-023-02424-5)**
+
+### Exceptionally Good Papers
+- **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**
+- **[VL-JEPA: Vision-Language Joint Embedding Predictive Architecture](https://arxiv.org/abs/2412.16480)**
+- **[Model Context Protocol](https://modelcontextprotocol.io/introduction)**
 - **[Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering](https://dl.acm.org/doi/epdf/10.1145/3626772.3661370)**
 
 <details>
