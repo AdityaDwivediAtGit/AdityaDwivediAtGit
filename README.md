@@ -18,12 +18,19 @@
 - 🧠 **[AbleSenseLearn](https://github.com/AdityaDwivediAtGit/AbleSenseLearn)** - Repo for ACCESS.AI Hackathon
 - 🧠 **[CustomerServiceQA](https://github.com/AdityaDwivediAtGit/CustomerServiceQA_using_GraphRAG)** - Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering
 - 🧠 **[World-Bank-ETL-Pipeline](https://github.com/AdityaDwivediAtGit/World-Bank-ETL-Pipeline)** - ETL project for World Bank data using PySpark with ML predictions
+- 🤖 **[LeCun](https://github.com/AdityaDwivediAtGit/LeCun)** - Predicting customer purchase behavior using K-Nearest Neighbour (Konvergence BootCamp)
 - 🔧 **[Go-Sorting-Server](https://github.com/AdityaDwivediAtGit/Go-Sorting-Server)** - Efficient array sorting with sequential and concurrent processing, Dockerized and deployed on Railway
 - 🛡️ **[GuardedGates](https://github.com/AdityaDwivediAtGit/GuardedGates)** - Secure .NET and Python project with JWT authentication, ClamAV integration, and Ocelot API gateway
 - 🚚 **[DeliveryServiceHub](https://github.com/AdityaDwivediAtGit/DeliveryServiceHub)** - Common API for integrating with delivery partners ShipRocket and Porter
+- 🏨 **[MagicVilla_API](https://github.com/AdityaDwivediAtGit/MagicVilla_API)** - .NET Web API development project
+- 🛍️ **[DapperFilteringProject](https://github.com/AdityaDwivediAtGit/DapperFilteringProject)** - Efficient large dataset management using dynamic filtering and Dapper
 - 📊 **[Cricket World Cup Analytics](https://github.com/AdityaDwivediAtGit/CricketWorldCupAnalytics)** - Power BI dashboard for 2019 Cricket World Cup statistical analysis
+- 📈 **[HR-Analytics-PowerBI](https://github.com/AdityaDwivediAtGit/HR-Analytics-PowerBI)** - Comprehensive HR analytics for workforce analysis and performance optimization
 - ⚡ **[PrivateHost](https://github.com/AdityaDwivediAtGit/PrivateHost)** - Hosting utility for Angular/React/Streamlit applications
-- 💾 **[Verilog-HDL-modules](https://github.com/AdityaDwivediAtGit/Verilog-HDL-modules)** - Designs and TestBench of various circuits using Verilog HDL
+- 🧩 **[MazeSolver](https://github.com/AdityaDwivediAtGit/MazeSolver)** - Pathfinding algorithms (DFS/BFS) visualization and implementation
+- � **[YouTube_Video_Downloader](https://github.com/AdityaDwivediAtGit/YouTube_Video_Downloader)** - Python utility for downloading YouTube videos
+- �💾 **[Verilog-HDL-modules](https://github.com/AdityaDwivediAtGit/Verilog-HDL-modules)** - Designs and TestBench of various circuits using Verilog HDL
+- 🔌 **[LowLevelBlink](https://github.com/AdityaDwivediAtGit/LowLevelBlink)** - Low-level embedded systems programming in C
 
 ## GitHub Activity
 
