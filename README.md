@@ -61,8 +61,8 @@
 
 ### Exceptionally Good Papers
 - **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**
-- **[VL-JEPA: Vision-Language Joint Embedding Predictive Architecture](https://arxiv.org/abs/2412.16480)**
-- **[Model Context Protocol](https://modelcontextprotocol.io/introduction)**
+- **[VL-JEPA: Vision-Language Joint Embedding Predictive Architecture](https://arxiv.org/abs/2512.10942)**
+- **[Model Context Protocol](https://arxiv.org/abs/2503.23278)**
 - **[Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering](https://dl.acm.org/doi/epdf/10.1145/3626772.3661370)**
 
 <details>
